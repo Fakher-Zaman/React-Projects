@@ -1,3 +1,3 @@
 ##Visit Site:
 
-https://cocktails-info-here.netlify.app/
+https://cocktails-info-react.netlify.app/
